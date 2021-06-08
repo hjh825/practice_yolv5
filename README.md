@@ -1,1 +1,1 @@
-# practice_yolv5
+# practice_yolvo5
